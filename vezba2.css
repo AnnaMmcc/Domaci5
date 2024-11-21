@@ -1,0 +1,31 @@
+.sivaPozadina {
+	background-color: rgb(214, 211, 211);
+	text-align: center;
+	padding-top: 10px;
+}
+.amgF1 {
+	border: 1px solid rgb(82, 79, 79);
+	margin-right: 950px;
+	text-align: center;
+	width: 350px;
+}
+button {
+	background-color: black;
+	color: white;
+	padding: 6px 50px;
+	margin-bottom: 10px;
+}
+.ferrari {
+	width: 350px;
+	border: 1px solid rgb(82, 79, 79);
+	margin-right: 950px;
+	text-align: center;
+	margin-top: 10px;
+}
+.redBull {
+	width: 350px;
+	border: 1px solid rgb(82, 79, 79);
+	margin-right: 950px;
+	text-align: center;
+	margin-top: 10px;
+}
